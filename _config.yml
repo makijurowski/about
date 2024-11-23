@@ -1,10 +1,10 @@
 # site settings
 title: Blue Bee Island Company
 subtitle: A Digital Marketing Agency
-email: maki@bluebeeisland.com
+email: team@bluebeeisland.com
 description: A digital marketing agency specializing in connecting customer leads to small businesses.
-baseurl: "/blue-bee-island-co" # the subpath of your site, e.g. /blog
-url: "makijurowski.github.io"
+baseurl: # "/blue-bee-island-co" aka the subpath of your site, e.g. /blog
+url: 
 author: Maki
 street_address: PO Box 257, PMB 10804
 city: Olympia
