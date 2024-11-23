@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, we're Blue Bee Island Company'
+landing-title: 'Hi, we are the Blue Bee Island Company'
 description: null
 image: null
 author: null
