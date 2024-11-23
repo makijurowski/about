@@ -3,9 +3,9 @@ title: Blue Bee Island Company
 subtitle: A Digital Marketing Agency
 email: maki@bluebeeisland.com
 description: A digital marketing agency specializing in connecting customer leads to small businesses.
-baseurl: "/about" # the subpath of your site, e.g. /blog
+baseurl: "/blue-bee-island-co" # the subpath of your site, e.g. /blog
 url: "bluebeeisland.com"
-author:
+author: Maki
 street_address: PO Box 257, PMB 10804
 city: Olympia
 state: WA
