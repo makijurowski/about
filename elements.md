@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Us
+title: Elements
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
