@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pricing
+title: Generic
 description: Our pricing model
 image: assets/images/pic11.jpg
 nav-menu: true
